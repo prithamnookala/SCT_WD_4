@@ -70,7 +70,7 @@ const Index = () => {
             <h1 className="text-3xl md:text-4xl font-bold text-foreground">TaskZen</h1>
           </div>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Stay organized and productive with your minimalist task manager
+            Stay organized and productive
           </p>
         </div>
 
